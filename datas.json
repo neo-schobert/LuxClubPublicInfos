@@ -1,0 +1,13 @@
+{
+  "secteurs": [
+    {
+      "name": "Finistère",
+      "title": "Secteur Finistère",
+      "imageDepartement": "./images/finistere.jpg",
+      "iconDepartement": "/images/iconBretagne.png",
+      "instagramLink": "https://www.instagram.com/salsaderue_finistere/",
+      "facebookLink": "https://www.facebook.com/AssociationSalsaderue",
+      "email": "salsaderue_brest@hotmail.com"
+    }
+  ]
+}
